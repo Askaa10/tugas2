@@ -1,0 +1,13 @@
+{
+  "name": "belajar-ts-dasar",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc -w",
+    "dev" : "nodemon src/index.ts"
+  },
+  "author": "bdmaaan",
+  "license": "ISC",
+  "description": ""
+}
